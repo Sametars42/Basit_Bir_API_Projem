@@ -1,4 +1,4 @@
-# Basit_API_Projem
+# Basit_API_Projem  (Başlama/Bitiş Tarihi: 08.11.2026-13.11.2026)
 
 Projenin temel amacı; modern bir API mimarisinin nasıl çalıştığını göstermek, verileri güvenli ve düzenli bir şekilde yönetmek (CRUD süreçleri: Oluşturma, Okuma, Güncelleme, Silme) ve istemci uygulamalarına (Web, Mobil veya diğer servisler) arka plan hizmeti sunmaktır.
 
